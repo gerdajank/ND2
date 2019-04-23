@@ -1,0 +1,5 @@
+Sukurkite puslapį su video elementu. 
+Turi būti kelių skirtingų video formatų palaikymas. 
+Turi būti įdėtas vaizdo mežiagos plakatas (poster).
+ Video turi negroti atidarius.
+  Nuoroda į resursus pridėta.
